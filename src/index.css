@@ -1,0 +1,42 @@
+html {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #343233;
+  color: #efdab9;
+}
+
+body {
+  margin: 0;
+  font-size: 2rem;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.component {
+  text-align: center;
+  margin: 50px 0;
+  padding: 30px;
+  border: solid 1px #efdab9;
+}
+
+.component p {
+  color: #ffd152;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.component button {
+  width: 150px;
+  padding: 10px;
+  margin: 10px;
+  border: solid 1px transparent;
+  border-radius: 50px;
+  background: #ffd152;
+  font-size: 20px;
+}
+
+.component button:hover {
+  cursor: pointer;
+}
