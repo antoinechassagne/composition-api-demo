@@ -30,3 +30,7 @@ Demo time 🤓
 ## 🥵 Inconvéniants
 
 Wait & see...
+
+## Annexes
+
+![1](images/vue-3-composition-vs-options-organization.png)
